@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated model artifacts (similarity.pkl is too large for regular GitHub)
+model/*.pkl
+
+# Local secrets
+.env
+.streamlit/secrets.toml

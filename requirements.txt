@@ -1,0 +1,14 @@
+# Core Data Manipulation & Math
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Recommendation model
+scikit-learn>=1.4.0
+
+# Streamlit app
+streamlit>=1.32.0
+requests>=2.31.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
